@@ -1,9 +1,7 @@
-<!-- Modern Header with Animated Name (Marquee Only) -->
+<!-- Header with typing animation only for name -->
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 28px; color: #ffffff; background: linear-gradient(to right, #302b63, #24243e); padding: 14px 24px; border-radius: 8px; font-weight: bold;">
-    Muhammad Haekal Alif Putra
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Muhammad+Haekal+Alif+Putra" alt="Typing Name" />
 </p>
 
 <p align="center">
@@ -23,7 +21,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
