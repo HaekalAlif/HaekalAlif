@@ -1,84 +1,85 @@
-<!-- Banner animasi GitHub Readme Typing SVG -->
-<h1 align="center" style="font-weight: bold; font-size: 28px;">Muhammad Haekal Alif Putra</h1>
+<h1 align="center">Muhammad Haekal Alif Putra</h1>
 <p align="center">
-  Fullstack Developer &nbsp;|&nbsp; Informatics Student @ Universitas Sebelas Maret  
+  <em>Fullstack Developer · Informatics Student @ Universitas Sebelas Maret</em>
 </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-haekal-alif-putra">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:haekalalifputra@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://haekalportfolio.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://haekalportfolio.vercel.app">Portfolio</a> · 
+  <a href="mailto:haekalalifputra@gmail.com">Email</a> · 
+  <a href="https://linkedin.com/in/muhammad-haekal-alif-putra">LinkedIn</a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Intern Fullstack Developer @ PT. Solution Labs (Laravel + Next.js)
-- 👨‍🎓 Informatics student at Universitas Sebelas Maret (3.95 GPA)
-- 🛠️ Experienced in building dynamic and scalable fullstack applications
-- 📦 Strong in API integration, authentication systems, and CMS development
-- 🎯 Interested in building impactful digital systems that solve real problems
+
+I'm passionate about building scalable web systems using modern frameworks like Laravel, Next.js, Vue, and Express.  
+I specialize in fullstack development with API integrations, real-time features, and clean architecture.
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
+#### ⚙️ Frameworks & Frontend Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" height="28" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" height="28" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" title="Vue.js" height="28" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" title="TailwindCSS" height="28" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" title="Laravel" height="28" />
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" title="Express.js" height="28" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" height="28" />
 </p>
 
+#### 🗄️ Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" height="28" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" title="PostgreSQL" height="28" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" height="28" />
 </p>
 
+#### 🧰 Tools & DevOps
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" height="28" />
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" height="28" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" height="28" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" height="28" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Projects
+
+- [**SecondCycle**](https://github.com/haekalalifputra/secondcycle) — E-commerce platform for used goods with real-time negotiation
+- [**LittleFairyFlorist**](https://github.com/haekalalifputra/littlefairyflorist) — CMS florist with product management and WhatsApp checkout
+- [**Absen-In**](https://github.com/haekalalifputra/absen-in) — QR-based attendance system with geolocation verification
+- [**Emailkomp Website**](https://github.com/haekalalifputra/emailkomp-website) — Organization portal for articles, events, and competitions
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaekalAlif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaekalAlif&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaekalAlif&theme=github_dark" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaekalAlif&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaekalAlif&theme=github_dark" />
 </p>
 
+---
+
+### 📚 Currently Exploring
+
+- Writing clean, scalable, and testable code  
+- Docker and CI/CD workflows  
+- Backend architecture and performance optimization  
 
 ---
 
-### 🧠 Currently Learning
-- Writing clean, maintainable, and efficient code in real-world systems
-- Containerization and environment standardization using Docker
-- Improving software architecture, scalability, and deployment practices
-
----
-
-### 🗂️ Let’s Connect
-Open to collaboration, internships, and tech discussions around Laravel, fullstack, and modern web systems.  
-→ Contact me via [email](mailto:haekalalifputra@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammad-haekal-alif-putra)
-
----
+<p align="center">
+  <sub>Let’s connect — open to collaboration or project discussions anytime.</sub>
+</p>
+<p align="center">
+  <i>“"Indeed, with hardship comes ease. Indeed, with hardship comes ease.”</i>
+  <br/>
+  <i><code>94:5–6</code></i>
+</p>
