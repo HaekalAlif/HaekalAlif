@@ -1,12 +1,29 @@
-<h1 align="center">Muhammad Haekal Alif Putra</h1>
+<!-- Modern Header with Animated Name (Marquee Only) -->
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 28px; color: #ffffff; background: linear-gradient(to right, #302b63, #24243e); padding: 14px 24px; border-radius: 8px; font-weight: bold;">
+    Muhammad Haekal Alif Putra
+  </marquee>
+</p>
+
 <p align="center">
   <em>Fullstack Developer · Informatics Student @ Universitas Sebelas Maret</em>
 </p>
+
 <p align="center">
-  <a href="https://haekalportfolio.vercel.app">Portfolio</a> · 
-  <a href="mailto:haekalalifputra@gmail.com">Email</a> · 
-  <a href="https://linkedin.com/in/muhammad-haekal-alif-putra">LinkedIn</a>
+  <a href="https://haekalportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:haekalalifputra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/muhammad-haekal-alif-putra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -75,9 +92,6 @@ I specialize in fullstack development with API integrations, real-time features,
 
 ---
 
-<p align="center">
-  <sub>Let’s connect — open to collaboration or project discussions anytime.</sub>
-</p>
 <p align="center">
   <i>“"Indeed, with hardship comes ease. Indeed, with hardship comes ease.”</i>
   <br/>
