@@ -1,4 +1,4 @@
-<!-- Header with typing animation only for name -->
+<!-- Header with typing animation (only name) -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Muhammad+Haekal+Alif+Putra" alt="Typing Name" />
@@ -35,28 +35,28 @@ I specialize in fullstack development with API integrations, real-time features,
 
 #### ⚙️ Frameworks & Frontend Libraries
 <p align="center">
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" height="28" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" height="28" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" title="Vue.js" height="28" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" title="TailwindCSS" height="28" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" title="Laravel" height="28" />
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" title="Express.js" height="28" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" height="28" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" title="Vue.js" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" title="TailwindCSS" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" title="Laravel" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" style="height:26px; margin: 0 6px;" />
 </p>
 
 #### 🗄️ Databases
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" height="28" />
-  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" title="PostgreSQL" height="28" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" height="28" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" title="PostgreSQL" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" style="height:26px; margin: 0 6px;" />
 </p>
 
 #### 🧰 Tools & DevOps
 <p align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" height="28" />
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" height="28" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" height="28" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" height="28" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" style="height:26px; margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" style="height:26px; margin: 0 6px;" />
 </p>
 
 ---
@@ -90,7 +90,6 @@ I specialize in fullstack development with API integrations, real-time features,
 ---
 
 <p align="center">
-  <i>“"Indeed, with hardship comes ease. Indeed, with hardship comes ease.”</i>
-  <br/>
-  <i><code>94:5–6</code></i>
+  <i>“Indeed, with hardship comes ease. Indeed, with hardship comes ease.”</i><br />
+  <code>Surah Al-Inshirah 94:5–6</code>
 </p>
