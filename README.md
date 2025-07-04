@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://haekalportfolio.vercel.app" target="_blank">
+  <a href="https://haekal-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
